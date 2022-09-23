@@ -46,7 +46,7 @@ All user stories except the optional ones have been fulfilled.
 
 ### Demo
 
-Find the site in action [here](https://github-jobs.app/)!
+Find the site in action [here](https://github-jobs.vercel.app/)!
 
 ### Built With
 
